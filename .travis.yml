@@ -9,4 +9,4 @@ before_install:
 language: python
 python:
   - "3.6"
-script: ./travis.sh
+script: pytest
