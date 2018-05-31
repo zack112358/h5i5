@@ -1,5 +1,0 @@
-[run]
-include = h5i5/*
-omit = *migrations*, *tests*
-plugins =
-    django_coverage_plugin
